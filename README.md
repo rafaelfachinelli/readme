@@ -17,7 +17,7 @@
  <a href="#memo-tasks">Tasks</a> •
  <a href="#hammer_and_wrench-tecnologias">Tecnologies</a> •
  <a href="#boy-autor">Autor</a> •
- <a href="#page_facing_up-licença">License</a>
+ <a href="#balance_scale-licença">License</a>
 </p>
 
 ---
@@ -80,7 +80,7 @@ Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
 </div>
 
 ---
-## :page_facing_up: **Licença**
+## :balance_scale: **License**
 
 <div align="center">
 
