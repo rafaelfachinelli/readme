@@ -66,8 +66,8 @@ The following tools is used to build this project:
 <div align="center">
 
 <a href="https://github.com/YOURUSERNAME">
- <img src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Profile Photo YOUR NAME"/>
- <br />
+ <img src="YOURGITHUBIMAGEPROFILE" width="100px;" alt="Profile Photo YOUR NAME"/>
+ <br/>
  <sub><b>YOUR NAME</b></sub>
 </a>
 
