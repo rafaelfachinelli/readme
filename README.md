@@ -13,7 +13,7 @@
 
 <p align="center">
  <a href="#eye_speech_bubble-demo">Demo</a> •
- <a href="#computer-about">About</a> •
+ <a href="#information_source-about">About</a> •
  <a href="#memo-tasks">Tasks</a> •
  <a href="#hammer_and_wrench-tecnologias">Tecnologies</a> •
  <a href="#boy-autor">Autor</a> •
@@ -28,7 +28,7 @@
 <p>
   
 ---
-## :computer: About
+## :information_source: About
 
 Your description about this project.
 
