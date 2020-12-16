@@ -15,7 +15,7 @@
  <a href="#eye_speech_bubble-demo">Demo</a> •
  <a href="#computer-about">About</a> •
  <a href="#memo-tasks">Tasks</a> •
- <a href="#hammer-tecnologias">Tecnologies</a> •
+ <a href="#hammer_and_wrench-tecnologias">Tecnologies</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-licença">License</a>
 </p>
@@ -47,7 +47,7 @@
 </div>
 
 ---
-## :hammer: **Tecnologies**
+## :hammer_and_wrench: **Tecnologies**
 
 The following tools is used to build this project:
 
