@@ -41,7 +41,8 @@
 
 |State|Task|
 |:---:|:---|
-|||
+|:heavy_check_mark:|Describe your task finished.|
+|:x:|Describe your task unfinished.|
 
 </details>
 </div>
