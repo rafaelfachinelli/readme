@@ -12,7 +12,7 @@
 <p>
 
 <p align="center">
- <a href="#movie_camera-demo">Demo</a> •
+ <a href="#eye_speech_bubble-demo">Demo</a> •
  <a href="#computer-about">About</a> •
  <a href="#memo-tasks">Tasks</a> •
  <a href="#hammer-tecnologias">Tecnologies</a> •
@@ -21,7 +21,7 @@
 </p>
 
 ---
-## :movie_camera: **Demo**
+## :eye_speech_bubble: **Demo**
 
 <p align="center">
   <kbd><img alt="FlexBlog" src="./.github/desktop_demo.png"/></kbd>
