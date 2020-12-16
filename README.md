@@ -30,7 +30,7 @@
 ---
 ## :computer: About
 
-...
+Your description about this project.
 
 ---
 ## :memo: **Tasks**
