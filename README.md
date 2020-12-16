@@ -74,7 +74,7 @@ The following tools is used to build this project:
 Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOURNAME)
-[![Github Badge](https://img.shields.io/badge/-YOURNAME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/rafaelfachinelli)
+[![Github Badge](https://img.shields.io/badge/-YOURNAME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/YOURUSERNAME)
 [![Outlook Badge](https://img.shields.io/badge/-YOUREMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:YOUREMAIL)
 
 </div>
@@ -84,7 +84,7 @@ Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
 
 <div align="center">
 
-Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
+Copyright © 2020 [YOUR NAME](https://github.com/YOURUSERNAME).<br />
 Este projeto é licenciado pelo [MIT](./LICENSE).
 
 </div>
