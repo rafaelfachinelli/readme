@@ -24,7 +24,7 @@
 ## :eye_speech_bubble: **Demo**
 
 <p align="center">
-  <kbd><img alt="FlexBlog" src="./.github/desktop_demo.png"/></kbd>
+  <kbd><img alt="PROJECT NAME" src=".github/desktop_demo.png"/></kbd>
 <p>
   
 ---
@@ -65,18 +65,17 @@ The following tools is used to build this project:
 
 <div align="center">
 
-<a href="https://github.com/rafaelfachinelli">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Profile Photo YOUR NAME"/>
+<a href="https://github.com/YOURUSERNAME">
+ <img src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Profile Photo YOUR NAME"/>
  <br />
- <sub><b>YOUR NAME</b></sub></a>
-
+ <sub><b>YOUR NAME</b></sub>
+</a>
 
 Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
-[![Github Badge](https://img.shields.io/badge/-YOURNAME-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
-[![Itch.io Badge](https://img.shields.io/badge/-YOURNAME-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://rafael-fachinelli.itch.io/)](https://rafael-fachinelli.itch.io/)
-[![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
+[![Linkedin Badge](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOURNAME)
+[![Github Badge](https://img.shields.io/badge/-YOURNAME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/rafaelfachinelli)
+[![Outlook Badge](https://img.shields.io/badge/-YOUREMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:YOUREMAIL)
 
 </div>
 
