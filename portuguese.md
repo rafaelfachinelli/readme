@@ -53,7 +53,7 @@ The following tools is used to build this project:
 
 <div align="center">
 
-|:globe_with_meridians: Web|:iphone: Mobile|:computer: Server|
+|:globe_with_meridians: Web|:iphone: Mobile|:desktop_computer: Server|
 |:---:|:---:|:---:|
 |[Exemple](https://exemple.com)|[Exemple](https://exemple.com)|[Exemple](https://exemple.com)|
 
