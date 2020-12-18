@@ -55,15 +55,18 @@ Your description about this project.
 
 Open folder [`exemple/`](exemple/) and execute the following commands:
 
-_with **npm**_
+<details>
+  <summary><i>with <b>npm</b></i></summary>
+  
+  ```bash
+  # Install dependencies
+  $ npm install
 
-```bash
-# Install dependencies
-$ npm install
-
-# Start development server
-$ npm start
-```
+  # Start development server
+  $ npm start
+  ```
+  
+</details>
 
 _with **yarn**_
 
