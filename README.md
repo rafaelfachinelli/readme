@@ -68,16 +68,19 @@ Open folder [`exemple/`](exemple/) and execute the following commands:
   
 </details>
 
-_with **yarn**_
+<details>
+  <summary><i>with <b>npm</b></i></summary>
+  
+  ```bash
+  # Install dependencies
+  $ yarn
 
-```bash
-# Install dependencies
-$ yarn
+  # Start development server
+  $ yarn start
 
-# Start development server
-$ yarn start
+  ```
 
-```
+</details>
 
 > ⚠️ The development server will start on port:???? - Access <http://localhost:????>
 
