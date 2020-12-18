@@ -15,6 +15,7 @@
  <a href="#eye_speech_bubble-demo">Demo</a> •
  <a href="#information_source-about">About</a> •
  <a href="#memo-tasks">Tasks</a> •
+  <a href="#memo-tasks">Run</a> •
  <a href="#hammer_and_wrench-tecnologias">Tecnologies</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#balance_scale-licença">License</a>
@@ -46,6 +47,65 @@ Your description about this project.
 
 </details>
 </div>
+
+---
+## :dvd: **Run**
+
+### :desktop_computer: **WEB Responsive**
+
+Open folder [`exemple/`](exemple/) and execute the following commands:
+
+_with **npm**_
+
+```bash
+# Install dependencies
+$ npm install
+
+# Start development server
+$ npm start
+```
+
+_with **yarn**_
+
+```bash
+# Install dependencies
+$ yarn
+
+# Start development server
+$ yarn start
+
+```
+
+> ⚠️ The development server will start on port:???? - Access <http://localhost:????>
+
+### :iphone: **Aplicativo**
+
+Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
+
+_com **npm**_
+
+```bash
+# Instalar dependências
+$ npm install
+
+# Iniciar servidor de desenvolvimento
+$ npm start
+```
+
+_com **yarn**_
+
+```bash
+# Instalar dependências
+$ yarn
+
+# Iniciar servidor de desenvolvimento
+$ yarn start
+
+```
+
+> ⚠️ O expo para desenvolvimento iniciará na porta:19002 - Acesse <http://localhost:19002>
+
+> ⚠️ No arquivo **api.ts** dentro da pasta [`mobile/src/services/`](mobile/src/services/) é necessário colocar o seu IP local na variável baseURL, mantendo a porta 3333 do servidor.
 
 ---
 ## :hammer_and_wrench: **Tecnologies**
@@ -85,6 +145,6 @@ Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
 <div align="center">
 
 Copyright © 2020 [YOUR NAME](https://github.com/YOURUSERNAME).<br />
-Este projeto é licenciado pelo [MIT](./LICENSE).
+This project is licensed by [MIT](./LICENSE).
 
 </div>
