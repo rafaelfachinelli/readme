@@ -18,7 +18,7 @@
   <a href="#arrow_forward-run">Run</a> •
  <a href="#hammer_and_wrench-technologies">Technologies</a> •
  <a href="#boy-autor">Autor</a> •
- <a href="#balance_scale-licença">License</a>
+ <a href="#balance_scale-license">License</a>
 </p>
 
 ---
