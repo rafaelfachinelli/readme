@@ -82,7 +82,7 @@ Open folder [`exemple/`](exemple/) and execute the following commands:
 
 </details>
 
-> ⚠️ The development server will start on port:???? - Access <http://localhost:????>
+> ⚠️ The development server will start on port:YOURPORT - Access <http://localhost:YOURPORT>
 
 ---
 ## :hammer_and_wrench: **Technologies**
