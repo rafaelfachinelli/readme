@@ -14,8 +14,8 @@
 <p align="center">
  <a href="#eye_speech_bubble-demo">Demo</a> •
  <a href="#information_source-about">About</a> •
- <a href="#arrow_forward-tasks">Tasks</a> •
-  <a href="#memo-run">Run</a> •
+ <a href="#memo-tasks">Tasks</a> •
+  <a href="#arrow_forward-run">Run</a> •
  <a href="#hammer_and_wrench-tecnologias">Tecnologies</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#balance_scale-licença">License</a>
