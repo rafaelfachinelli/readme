@@ -3,12 +3,12 @@
 <p>
 
 <p align="center"> 
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/YOURUSERNAME/YOURREPOSITORY?color=8e44ad&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/YOURUSERNAME/YOURREPOSITORY?color=8e44ad&style=for-the-badge">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/YOURUSERNAME/YOURREPOSITORY?color=3498db&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/YOURUSERNAME/YOURREPOSITORY?color=3498db&style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
-    <img alt="Developed by YOURNAME" src="https://img.shields.io/badge/Developer-YOUR_NAME-%8e44ad?color=8e44ad&style=for-the-badge">
+    <img alt="Developed by YOURNAME" src="https://img.shields.io/badge/Developer-YOUR_NAME-%3498db?color=3498db&style=for-the-badge">
   </a>
-  <img alt="Project License" src="https://img.shields.io/github/license/YOURUSERNAME/YOURREPOSITORY?color=8e44ad&style=for-the-badge"/>
+  <img alt="Project License" src="https://img.shields.io/github/license/YOURUSERNAME/YOURREPOSITORY?color=3498db&style=for-the-badge"/>
 <p>
 
 <p align="center">
