@@ -14,8 +14,8 @@
 <p align="center">
  <a href="#eye_speech_bubble-demo">Demo</a> •
  <a href="#information_source-about">About</a> •
- <a href="#memo-tasks">Tasks</a> •
-  <a href="#memo-tasks">Run</a> •
+ <a href="#arrow_forward-tasks">Tasks</a> •
+  <a href="#memo-run">Run</a> •
  <a href="#hammer_and_wrench-tecnologias">Tecnologies</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#balance_scale-licença">License</a>
@@ -49,7 +49,7 @@ Your description about this project.
 </div>
 
 ---
-## :dvd: **Run**
+## :arrow_forward: **Run**
 
 ### :desktop_computer: **WEB Responsive**
 
@@ -77,35 +77,6 @@ $ yarn start
 ```
 
 > ⚠️ The development server will start on port:???? - Access <http://localhost:????>
-
-### :iphone: **Aplicativo**
-
-Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
-
-_com **npm**_
-
-```bash
-# Instalar dependências
-$ npm install
-
-# Iniciar servidor de desenvolvimento
-$ npm start
-```
-
-_com **yarn**_
-
-```bash
-# Instalar dependências
-$ yarn
-
-# Iniciar servidor de desenvolvimento
-$ yarn start
-
-```
-
-> ⚠️ O expo para desenvolvimento iniciará na porta:19002 - Acesse <http://localhost:19002>
-
-> ⚠️ No arquivo **api.ts** dentro da pasta [`mobile/src/services/`](mobile/src/services/) é necessário colocar o seu IP local na variável baseURL, mantendo a porta 3333 do servidor.
 
 ---
 ## :hammer_and_wrench: **Tecnologies**
