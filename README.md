@@ -16,7 +16,7 @@
  <a href="#information_source-about">About</a> •
  <a href="#memo-tasks">Tasks</a> •
   <a href="#arrow_forward-run">Run</a> •
- <a href="#hammer_and_wrench-tecnologies">Tecnologies</a> •
+ <a href="#hammer_and_wrench-technologies">Technologies</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#balance_scale-licença">License</a>
 </p>
@@ -85,7 +85,7 @@ Open folder [`exemple/`](exemple/) and execute the following commands:
 > ⚠️ The development server will start on port:???? - Access <http://localhost:????>
 
 ---
-## :hammer_and_wrench: **Tecnologies**
+## :hammer_and_wrench: **Technologies**
 
 The following tools is used to build this project:
 
