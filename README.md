@@ -69,7 +69,7 @@ Open folder [`exemple/`](exemple/) and execute the following commands:
 </details>
 
 <details>
-  <summary><i>with <b>npm</b></i></summary>
+  <summary><i>with <b>yarn</b></i></summary>
   
   ```bash
   # Install dependencies
