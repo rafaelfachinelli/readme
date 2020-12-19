@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="PROJECT NAME" src=".github/banner.svg" width="200px"/>
+  <img alt="PROJECT NAME" src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="200px"/>
 <p>
 
 <p align="center"> 
@@ -15,8 +15,9 @@
  <a href="#eye_speech_bubble-demo">Demo</a> •
  <a href="#information_source-about">About</a> •
  <a href="#memo-tasks">Tasks</a> •
-  <a href="#arrow_forward-run">Run</a> •
+ <a href="#arrow_forward-run">Run</a> •
  <a href="#hammer_and_wrench-technologies">Technologies</a> •
+ <a href="#muscle-technologies">Contributors</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#balance_scale-license">License</a>
 </p>
@@ -25,7 +26,7 @@
 ## :eye_speech_bubble: **Demo**
 
 <p align="center">
-  <kbd><img alt="PROJECT NAME IMAGE" src=".github/desktop_demo.png"/></kbd>
+  <kbd><img alt="PROJECT NAME IMAGE" src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4"/></kbd>
 <p>
   
 ---
@@ -98,7 +99,7 @@ The following tools is used to build this project:
 </div>
 
 ---
-## :hammer_and_wrench: **Contributors**
+## :muscle: **Contributors**
 
 Thanks to all these wonderful people:
 
@@ -109,6 +110,63 @@ Thanks to all these wonderful people:
 
 <table>
   <tr>
+    <td align="center">
+      <a href="https://PORTFOLIOURL.COM">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile NAME CONTRIBUTOR"/><br />
+        <sub><b>Contributor Name</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
+      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+    </td>
+    <td align="center">
+      <a href="https://PORTFOLIOURL.COM">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile NAME CONTRIBUTOR"/><br />
+        <sub><b>Contributor Name</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
+      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+    </td>
+    <td align="center">
+      <a href="https://PORTFOLIOURL.COM">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile NAME CONTRIBUTOR"/><br />
+        <sub><b>Contributor Name</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
+      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://PORTFOLIOURL.COM">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile NAME CONTRIBUTOR"/><br />
+        <sub><b>Contributor Name</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
+      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+    </td>
+    <td align="center">
+      <a href="https://PORTFOLIOURL.COM">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile NAME CONTRIBUTOR"/><br />
+        <sub><b>Contributor Name</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
+      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+    </td>
     <td align="center">
       <a href="https://PORTFOLIOURL.COM">
         <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile NAME CONTRIBUTOR"/><br />
