@@ -98,12 +98,43 @@ The following tools is used to build this project:
 </div>
 
 ---
+## :hammer_and_wrench: **Contributors**
+
+Thanks to all these wonderful people:
+
+<div align="center">
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://PORTFOLIOURL.COM">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile NAME CONTRIBUTOR"/><br />
+        <sub><b>Contributor Name</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
+      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+    </td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+</div>
+
+---
 ## :boy: **Autor**
 
 <div align="center">
 
 <a href="https://github.com/YOURUSERNAME">
- <img src="YOURGITHUBIMAGEPROFILE" width="100px;" alt="Profile Photo YOUR NAME"/>
+ <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Profile Photo YOUR NAME"/>
  <br/>
  <sub><b>YOUR NAME</b></sub>
 </a>
