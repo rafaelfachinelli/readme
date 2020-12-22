@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="PROJECT NAME" src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="200px"/>
+  <img alt="PROJECT NAME" src=".github/banner.svg" width="250px"/>
 <p>
 
 <p align="center"> 
