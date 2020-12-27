@@ -18,7 +18,7 @@
  <a href="#arrow_forward-run">Run</a> •
  <a href="#hammer_and_wrench-technologies">Technologies</a> •
  <a href="#muscle-contributors">Contributors</a> •
- <a href="#boy-autor">Autor</a> •
+ <a href="#boy-author">Author</a> •
  <a href="#balance_scale-license">License</a>
 </p>
 
@@ -187,7 +187,7 @@ Thanks to all these wonderful people:
 </div>
 
 ---
-## :boy: **Autor**
+## :boy: **Author**
 
 <div align="center">
 
