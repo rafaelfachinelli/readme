@@ -210,7 +210,7 @@ Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
 
 <div align="center">
 
-Copyright © 2020 [YOUR NAME](https://github.com/YOURUSERNAME).<br />
+Copyright © 2021 [YOUR NAME](https://github.com/YOURUSERNAME).<br />
 This project is licensed by [MIT](./LICENSE).
 
 </div>
