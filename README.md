@@ -25,9 +25,17 @@
 ---
 ## :eye_speech_bubble: **Demo**
 
-<p align="center">
-  <kbd><img alt="PROJECT NAME IMAGE" src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4"/></kbd>
-<p>
+<div align="center">
+  
+|Desktop|
+|:---:|
+|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|
+
+|Tablet|Mobile|
+|:---:|:---:|
+|<kbd>![Tablet](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|<kbd>![Tablet](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>
+
+</div>
   
 ---
 ## :information_source: About
