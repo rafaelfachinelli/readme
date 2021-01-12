@@ -64,7 +64,7 @@ Your description about this project.
 ---
 ## :arrow_forward: **Run**
 
-To run the project you need to download this repository, have the Node Package Manager ([`NPM`](https://www.npmjs.com/get-npm)) or the ([`YARN`](https://yarnpkg.com/getting-started)) Package Manager installed.
+To run the project you need to download this repository, have the Node Package Manager ([`NPM`](https://www.npmjs.com/get-npm)) or the [`YARN`](https://yarnpkg.com/getting-started) Package Manager installed.
 
 ### :desktop_computer: **WEB Responsive**
 
