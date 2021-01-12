@@ -211,7 +211,7 @@ Obrigado a todas essas pessoas maravilhosas:
  <sub><b>NOME DO AUTOR</b></sub>
 </a>
 
-Desenvolvido com ❤️ por NOME DO DESENVOLVEDOR 👋🏽 Entre em contato!
+Desenvolvido com ❤️ por NOME DO AUTOR 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-NOME_SOBRENOME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/NOME)
 [![Github Badge](https://img.shields.io/badge/-NOME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/USUÁRIO)
