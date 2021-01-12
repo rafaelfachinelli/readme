@@ -3,37 +3,37 @@
 <p>
 
 <p align="center"> 
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge">
-  <a href="https://github.com/rafaelfachinelli">
-    <img alt="Developed by YOURNAME" src="https://img.shields.io/badge/Developer-YOUR_NAME-%3498db?color=3498db&style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/readme?color=3498db&style=for-the-badge">
+  <img alt="Último Commit no Repositório" src="https://img.shields.io/github/last-commit/rafaelfachinelli/readme?color=3498db&style=for-the-badge">
+  <a href="https://github.com/USUÁRIO">
+    <img alt="Desenvolvido por NOME" src="https://img.shields.io/badge/Desenvolvedor-NOME_SOBRENOME-%3498db?color=3498db&style=for-the-badge">
   </a>
-  <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/readme?color=3498db&style=for-the-badge"/>
 <p>
 
 <p align="center">
- <a href="#eye_speech_bubble-preview">Preview</a> •
- <a href="#information_source-about">About</a> •
- <a href="#memo-tasks">Tasks</a> •
- <a href="#arrow_forward-run">Run</a> •
- <a href="#hammer_and_wrench-technologies">Technologies</a> •
- <a href="#muscle-contributors">Contributors</a> •
- <a href="#boy-author">Author</a> •
- <a href="#balance_scale-license">License</a>
+ <a href="#eye_speech_bubble-visualizar">Visualizar</a> •
+ <a href="#information_source-sobre">Sobre</a> •
+ <a href="#memo-tarefas">Tarefas</a> •
+ <a href="#arrow_forward-executar">Executar</a> •
+ <a href="#hammer_and_wrench-tecnologias">Tecnologias</a> •
+ <a href="#muscle-contribuidores">Contribuidores</a> •
+ <a href="#boy-autor">Autor</a> •
+ <a href="#balance_scale-licença">Licença</a>
 </p>
 
 ---
-## :eye_speech_bubble: **Preview**
+## :eye_speech_bubble: **Visualizar**
 
 <div align="center">
 
-### :desktop_computer: Computer
+### :desktop_computer: Computador
   
 |Desktop|Ultra Wide|
 |:---:|:---:|
 |<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|
 
-### :iphone: Responsive
+### :iphone: Responsividade
 
 |Tablet|Mobile|
 |:---:|:---:|
@@ -42,80 +42,80 @@
 </div>
   
 ---
-## :information_source: About
+## :information_source: Sobre
 
-Your description about this project.
+Sua descrição sobre o projeto.
 
 ---
-## :memo: **Tasks**
+## :memo: **Tarefas**
 
 <div align="center">
 <details>
-<summary>Click to View</summary>
+<summary>Clique para visualizar</summary>
 
-|State|Task|
+|Estado|Tarefa|
 |:---:|:---|
-|:heavy_check_mark:|Describe your task finished.|
-|:x:|Describe your task unfinished.|
+|:heavy_check_mark:|Descreva sua tarefa finalizada.|
+|:x:|Descreva sua tarefa ainda não finalizada.|
 
 </details>
 </div>
 
 ---
-## :arrow_forward: **Run**
+## :arrow_forward: **Executar**
 
 To run the project you need to download this repository, have the Node Package Manager ([`NPM`](https://www.npmjs.com/get-npm)) or the YARN Package Manager installed ([`YARN`](https://yarnpkg.com/getting-started)).
 
-### :desktop_computer: **WEB Responsive**
+### :desktop_computer: **WEB Responsivo**
 
-Open the command prompt in the project directory, open the [`exemple/`](exemple/) folder and execute the following commands:
+Open the command prompt in the project directory, open the [`exemplo/`](exemplo/) folder and execute the following commands:
 
 <details>
-  <summary><i>with <b>npm</b></i></summary>
+  <summary><i>com <b>npm</b></i></summary>
   
   ```bash
-  # Install dependencies
+  # Instalar dependências
   $ npm install
 
-  # Start development server
+  # Iniciar o servidor de desenvolvimento
   $ npm start
   ```
   
 </details>
 
 <details>
-  <summary><i>with <b>yarn</b></i></summary>
+  <summary><i>com <b>yarn</b></i></summary>
   
   ```bash
-  # Install dependencies
+  # Instalar dependências
   $ yarn
 
-  # Start development server
+  # Iniciar o servidor de desenvolvimento
   $ yarn start
 
   ```
 
 </details>
 
-> ⚠️ The development server will start on port:YOURPORT - Access <http://localhost:YOURPORT>
+> ⚠️ O servidor de desenvolvimento será iniciado na porta:NÚMERODAPORTA - Acesse <http://localhost:NÚMERODAPORTA>
 
 ---
-## :hammer_and_wrench: **Technologies**
+## :hammer_and_wrench: **Tecnologias**
 
-The following tools is used to build this project:
+As seguintes ferramentas foram utilizadas para desenvolver esse projeto:
 
 <div align="center">
 
-|:globe_with_meridians: Web|:iphone: Mobile|:file_cabinet: Server|
+|:globe_with_meridians: Web|:iphone: Mobile|:file_cabinet: Servidor|
 |:---:|:---:|:---:|
-|[Exemple](https://exemple.com)|[Exemple](https://exemple.com)|[Exemple](https://exemple.com)|
+|[Exemplo](https://exemplo.com)|[Exemplo](https://exemplo.com)|[Exemplo](https://exemplo.com)|
 
 </div>
 
 ---
-## :muscle: **Contributors**
+## :muscle: **Contribuidores**
 
-Thanks to all these wonderful people:
+Obrigado a todas essas pessoas maravilhosas:
 
 <div align="center">
 
@@ -125,15 +125,15 @@ Thanks to all these wonderful people:
 <table>
   <tr>
     <td align="center">
-      <a href="https://PORTFOLIOURL.COM">
-        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile NAME CONTRIBUTOR"/><br />
-        <sub><b>Contributor Name</b></sub>
+      <a href="https://LINKDOPORTIFOLIO.COM">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile NOME DO CONTRIBUIDOR"/><br />
+        <sub><b>Nome do contribuidor</b></sub>
       </a>
       <br/>
-      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
-      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
-      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
-      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+      <a href="https://www.linkedin.com/in/NOMEDOCONTRIBUIDOR" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/NOMEDOCONTRIBUIDOR" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.facebook.com/NOMEDOCONTRIBUIDOR" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
+      <a href="https://www.youtube.com/NOMEDOCANAL" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
     </td>
     <td align="center">
       <a href="https://PORTFOLIOURL.COM">
@@ -201,17 +201,17 @@ Thanks to all these wonderful people:
 </div>
 
 ---
-## :boy: **Author**
+## :boy: **Autor**
 
 <div align="center">
 
 <a href="https://github.com/YOURUSERNAME">
  <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Profile Photo YOUR NAME"/>
  <br/>
- <sub><b>YOUR NAME</b></sub>
+ <sub><b>NOME DO AUTOR</b></sub>
 </a>
 
-Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
+Desenvolvido com ❤️ por NOME DO DESENVOLVEDOR 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOURNAME)
 [![Github Badge](https://img.shields.io/badge/-YOURNAME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/YOURUSERNAME)
@@ -220,11 +220,11 @@ Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
 </div>
 
 ---
-## :balance_scale: **License**
+## :balance_scale: **Licença**
 
 <div align="center">
 
-Copyright © 2021 [YOUR NAME](https://github.com/YOURUSERNAME).<br />
-This project is licensed by [MIT](./LICENSE).
+Copyright © 2021 [YOUR NAME](https://github.com/USUÁRIO).<br />
+Este projeto é licenciado por [MIT](./LICENSE).
 
 </div>
