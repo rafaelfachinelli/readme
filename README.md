@@ -66,7 +66,9 @@ Your description about this project.
 
 ### :desktop_computer: **WEB Responsive**
 
-Open folder [`exemple/`](exemple/) and execute the following commands:
+To run the project you need to download this repository, have the Node Package Manager ([`NPM`](https://www.npmjs.com/get-npm)) or the ([`YARN`](https://yarnpkg.com/getting-started)) Package Manager installed.
+
+Open the command prompt in the project directory, open the [`exemple/`](exemple/) folder and execute the following commands:
 
 <details>
   <summary><i>with <b>npm</b></i></summary>
