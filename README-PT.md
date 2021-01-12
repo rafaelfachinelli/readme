@@ -64,11 +64,11 @@ Sua descrição sobre o projeto.
 ---
 ## :arrow_forward: **Executar**
 
-To run the project you need to download this repository, have the Node Package Manager ([`NPM`](https://www.npmjs.com/get-npm)) or the YARN Package Manager installed ([`YARN`](https://yarnpkg.com/getting-started)).
+Para executar esse projeto você precisa baixar este repositório, ter o Gerenciador de Pacotes do Node ([`NPM`](https://www.npmjs.com/get-npm)) ou o Gerenciador de Pacotes YARN ([`YARN`](https://yarnpkg.com/getting-started)) instalado.
 
 ### :desktop_computer: **WEB Responsivo**
 
-Open the command prompt in the project directory, open the [`exemplo/`](exemplo/) folder and execute the following commands:
+Abra o prompt de comando no diretório do projeto, abra a pasta [`exemplo/`](exemplo/) e execute os seguintes códigos:
 
 <details>
   <summary><i>com <b>npm</b></i></summary>
@@ -214,7 +214,7 @@ Obrigado a todas essas pessoas maravilhosas:
 Desenvolvido com ❤️ por NOME DO AUTOR 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-NOME_SOBRENOME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/NOME)
-[![Github Badge](https://img.shields.io/badge/-NOME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/USUÁRIO)
+[![Github Badge](https://img.shields.io/badge/-USUÁRIO-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/USUÁRIO)
 [![Outlook Badge](https://img.shields.io/badge/-EMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:EMAIL)
 
 </div>
