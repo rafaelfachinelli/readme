@@ -97,7 +97,7 @@ Abra o prompt de comando no diretório do projeto, abra a pasta [`exemplo/`](exe
 
 </details>
 
-> ⚠️ O servidor de desenvolvimento será iniciado na porta:NÚMERODAPORTA - Acesse <http://localhost:NÚMERODAPORTA>
+> ⚠️ O servidor de desenvolvimento será iniciado na porta: NÚMERODAPORTA - Acesse <http://localhost:NÚMERODAPORTA>
 
 ---
 ## :hammer_and_wrench: **Tecnologias**
