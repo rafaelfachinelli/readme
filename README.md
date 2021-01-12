@@ -12,7 +12,7 @@
 <p>
 
 <p align="center">
- <a href="#eye_speech_bubble-demo">Demo</a> •
+ <a href="#eye_speech_bubble-preview">Preview</a> •
  <a href="#information_source-about">About</a> •
  <a href="#memo-tasks">Tasks</a> •
  <a href="#arrow_forward-run">Run</a> •
@@ -23,7 +23,7 @@
 </p>
 
 ---
-## :eye_speech_bubble: **Demo**
+## :eye_speech_bubble: **Preview**
 
 <div align="center">
   
