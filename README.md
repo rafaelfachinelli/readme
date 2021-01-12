@@ -26,10 +26,14 @@
 ## :eye_speech_bubble: **Preview**
 
 <div align="center">
+
+### :desktop_computer: Computer
   
-|Desktop|
-|:---:|
-|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|
+|Desktop|Ultra Wide|
+|:---:|:---:|
+|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|
+
+### :iphone: Responsive
 
 |Tablet|Mobile|
 |:---:|:---:|
