@@ -205,17 +205,17 @@ Obrigado a todas essas pessoas maravilhosas:
 
 <div align="center">
 
-<a href="https://github.com/YOURUSERNAME">
- <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Profile Photo YOUR NAME"/>
+<a href="https://github.com/USUÁRIODOAUTOR">
+ <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Profile Photo NOME DO AUTOR"/>
  <br/>
  <sub><b>NOME DO AUTOR</b></sub>
 </a>
 
 Desenvolvido com ❤️ por NOME DO DESENVOLVEDOR 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOURNAME)
-[![Github Badge](https://img.shields.io/badge/-YOURNAME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/YOURUSERNAME)
-[![Outlook Badge](https://img.shields.io/badge/-YOUREMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:YOUREMAIL)
+[![Linkedin Badge](https://img.shields.io/badge/-NOME_SOBRENOME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/NOME)
+[![Github Badge](https://img.shields.io/badge/-NOME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/USUÁRIO)
+[![Outlook Badge](https://img.shields.io/badge/-EMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:EMAIL)
 
 </div>
 
@@ -224,7 +224,7 @@ Desenvolvido com ❤️ por NOME DO DESENVOLVEDOR 👋🏽 Entre em contato!
 
 <div align="center">
 
-Copyright © 2021 [YOUR NAME](https://github.com/USUÁRIO).<br />
+Copyright © 2021 [NOME](https://github.com/USUÁRIO).<br />
 Este projeto é licenciado por [MIT](./LICENSE).
 
 </div>
