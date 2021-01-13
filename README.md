@@ -1,7 +1,7 @@
 <div align="right">
   
-  [![Readme English](https://img.shields.io/badge/Readme-EN--US-blue?style=for-the-badge)](./README-PT.md)
-  [![Readme Portuguese](https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge)](./README-PT.md)
+  [![Readme English](https://www.countryflags.io/us/flat/32.png)](./README.md)
+  [![Readme Portuguese](https://www.countryflags.io/br/flat/32.png)](./README-PT.md)
   
 </div>
 
