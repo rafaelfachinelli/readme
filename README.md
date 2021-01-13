@@ -1,22 +1,22 @@
-<p align="center">
+<div align="center">
   
   [![Readme English](https://img.shields.io/badge/Readme-EN--US-blue?style=for-the-badge)](./README-PT.md)
   [![Readme Portuguese](https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge)](./README-PT.md)
   
-<p>
+</div>
 
 <p align="center">
   <img alt="PROJECT NAME" src=".github/banner.svg" width="250px"/>
-<p>
+</p>
 
 <p align="center"> 
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
-    <img alt="Developed by YOURNAME" src="https://img.shields.io/badge/Developer-YOUR_NAME-%3498db?color=3498db&style=for-the-badge">
+    <img alt="Developed by NAME" src="https://img.shields.io/badge/Developer-YOUR_NAME-%3498db?color=3498db&style=for-the-badge">
   </a>
   <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge"/>
-<p>
+</p>
 
 <p align="center">
  <a href="#eye_speech_bubble-preview">Preview</a> •
