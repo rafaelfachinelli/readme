@@ -38,13 +38,13 @@
   
 |Desktop|Ultra Wide|
 |:---:|:---:|
-|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|
+|<kbd><img src=".github/previews/desktop_preview.jpg" alt="Desktop"/></kbd>|<kbd><img src=".github/previews/desktop_preview.jpg" alt="Ultra Wide"/></kbd>|
 
 ### :iphone: Responsividade
 
 |Tablet|Mobile|
 |:---:|:---:|
-|<kbd>![Tablet](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|<kbd>![Tablet](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>
+|<kbd><img src=".github/previews/tablet_preview.jpg" alt="Tablet"/></kbd>|<kbd><img src=".github/previews/mobile_preview.jpg" alt="Mobile"/></kbd>
 
 </div>
   
