@@ -1,3 +1,6 @@
+[![Readme Portuguese](https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge)](./README.md)
+[![Readme English](https://img.shields.io/badge/Readme-EN--US-blue?style=for-the-badge)](./README-PT.md)
+
 <p align="center">
   <img alt="PROJECT NAME" src=".github/banner.svg" width="250px"/>
 <p>
