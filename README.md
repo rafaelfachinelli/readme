@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   
   [![Readme English](https://img.shields.io/badge/Readme-EN--US-blue?style=for-the-badge)](./README-PT.md)
   [![Readme Portuguese](https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge)](./README-PT.md)
