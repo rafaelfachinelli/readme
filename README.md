@@ -1,7 +1,7 @@
 <div align="right">
   
-  [![English](https://www.countryflags.io/us/flat/32.png)](./README.md)
-  [![Portuguese](https://www.countryflags.io/br/flat/32.png)](./README-PT.md)
+  [![English](https://www.countryflags.io/us/flat/32.png)](README.md)
+  [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README-PT.md)
   
 </div>
 
@@ -38,7 +38,7 @@
   
 |Desktop|Ultra Wide|
 |:---:|:---:|
-|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|
+|<kbd>![Desktop](.github/previews/desktop_preview.jpg)</kbd>|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|
 
 ### :iphone: Responsive
 
