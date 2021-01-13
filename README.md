@@ -38,7 +38,7 @@
   
 |Desktop|Ultra Wide|
 |:---:|:---:|
-|<kbd>![Desktop](.github/previews/desktop_preview.jpg)</kbd>|<kbd>![Desktop](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|
+|<kbd><img src=".github/previews/desktop_preview.jpg" alt="Desktop" width="300px" height="200px"/></kbd>|<kbd><img src=".github/previews/desktop_preview.jpg" alt="Desktop" width="400px" height="200px"/></kbd>|
 
 ### :iphone: Responsive
 
