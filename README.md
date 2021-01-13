@@ -44,7 +44,7 @@
 
 |Tablet|Mobile|
 |:---:|:---:|
-|<kbd><img src=".github/previews/tablet_preview.jpg" alt="Tablet" width="200px" height="250px"/></kbd>|<kbd><img src=".github/previews/mobile_preview.jpg" alt="Mobile" width="150px" height="200px"/></kbd>
+|<kbd><img src=".github/previews/tablet_preview.jpg" alt="Tablet" width="200px" height="250px"/></kbd>|<kbd><img src=".github/previews/mobile_preview.jpg" alt="Mobile" width="130px" height="200px"/></kbd>
 
 </div>
   
