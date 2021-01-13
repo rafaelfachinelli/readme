@@ -38,13 +38,13 @@
   
 |Desktop|Ultra Wide|
 |:---:|:---:|
-|<kbd><img src=".github/previews/desktop_preview.jpg" alt="Desktop" width="300px" height="200px"/></kbd>|<kbd><img src=".github/previews/desktop_preview.jpg" alt="Desktop" width="400px" height="200px"/></kbd>|
+|<kbd><img src=".github/previews/desktop_preview.jpg" alt="Desktop" width="300px" height="200px"/></kbd>|<kbd><img src=".github/previews/desktop_preview.jpg" alt="Ultra Wide" width="400px" height="200px"/></kbd>|
 
 ### :iphone: Responsive
 
 |Tablet|Mobile|
 |:---:|:---:|
-|<kbd>![Tablet](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>|<kbd>![Tablet](https://avatars1.githubusercontent.com/u/9919?s=200&v=4")</kbd>
+|<kbd><img src=".github/previews/tablet_preview.jpg" alt="Tablet" width="200px" height="250px"/></kbd>|<kbd><img src=".github/previews/mobile_preview.jpg" alt="Mobile" width="150px" height="200px"/></kbd>
 
 </div>
   
