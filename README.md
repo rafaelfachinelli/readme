@@ -12,8 +12,8 @@
 <p align="center"> 
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge">
-  <a href="https://github.com/rafaelfachinelli">
-    <img alt="Developed by NAME" src="https://img.shields.io/badge/Developer-YOUR_NAME-%3498db?color=3498db&style=for-the-badge">
+  <a href="https://github.com/USERNAME">
+    <img alt="Developed by NAME" src="https://img.shields.io/badge/Developer-NAME_SURNAME-%3498db?color=3498db&style=for-the-badge">
   </a>
   <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge"/>
 </p>
@@ -51,7 +51,7 @@
 ---
 ## :information_source: About
 
-Your description about this project.
+Description about this project.
 
 ---
 ## :memo: **Tasks**
@@ -73,9 +73,9 @@ Your description about this project.
 
 To run the project you need to download this repository, have the Node Package Manager ([`NPM`](https://www.npmjs.com/get-npm)) or the YARN Package Manager installed ([`YARN`](https://yarnpkg.com/getting-started)).
 
-### :desktop_computer: **WEB Responsive**
+### :globe_with_meridians: **Web**
 
-Open the command prompt in the project directory, open the [`exemple/`](exemple/) folder and execute the following commands:
+Open the command prompt in the project directory, open the [`example/`](example/) folder and execute the following commands:
 
 <details>
   <summary><i>with <b>npm</b></i></summary>
@@ -104,7 +104,73 @@ Open the command prompt in the project directory, open the [`exemple/`](exemple/
 
 </details>
 
-> ⚠️ The development server will start on port:YOURPORT - Access <http://localhost:YOURPORT>
+> ⚠️ The development server will start on port:PORT - Access <http://localhost:PORT>
+
+### :iphone: **Mobile**
+
+Open the command prompt in the project directory, open the [`example/`](example/) folder and execute the following commands:
+
+<details>
+  <summary><i>with <b>npm</b></i></summary>
+  
+  ```bash
+  # Install dependencies
+  $ npm install
+
+  # Start development server
+  $ npm start
+  ```
+  
+</details>
+
+<details>
+  <summary><i>with <b>yarn</b></i></summary>
+  
+  ```bash
+  # Install dependencies
+  $ yarn
+
+  # Start development server
+  $ yarn start
+
+  ```
+
+</details>
+
+> ⚠️ The development server will start on port:PORT - Access <http://localhost:PORT>
+
+### :file_cabinet: **Server**
+
+Open the command prompt in the project directory, open the [`example/`](example/) folder and execute the following commands:
+
+<details>
+  <summary><i>with <b>npm</b></i></summary>
+  
+  ```bash
+  # Install dependencies
+  $ npm install
+
+  # Start development server
+  $ npm start
+  ```
+  
+</details>
+
+<details>
+  <summary><i>with <b>yarn</b></i></summary>
+  
+  ```bash
+  # Install dependencies
+  $ yarn
+
+  # Start development server
+  $ yarn start
+
+  ```
+
+</details>
+
+> ⚠️ The development server will start on port:PORT - Access <http://localhost:PORT>
 
 ---
 ## :hammer_and_wrench: **Technologies**
@@ -115,7 +181,7 @@ The following tools is used to build this project:
 
 |:globe_with_meridians: Web|:iphone: Mobile|:file_cabinet: Server|
 |:---:|:---:|:---:|
-|[Exemple](https://exemple.com)|[Exemple](https://exemple.com)|[Exemple](https://exemple.com)|
+|[Example](https://example.com)|[Example](https://example.com)|[Example](https://example.com)|
 
 </div>
 
@@ -212,17 +278,17 @@ Thanks to all these wonderful people:
 
 <div align="center">
 
-<a href="https://github.com/YOURUSERNAME">
- <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Profile Photo YOUR NAME"/>
+<a href="https://github.com/AUTHORUSERNAME">
+ <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Profile Photo AUTHOR NAME"/>
  <br/>
- <sub><b>YOUR NAME</b></sub>
+ <sub><b>AUTHOR NAME</b></sub>
 </a>
 
-Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
+Developed with ❤️ by AUTHOR NAME 👋🏽 Contact me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOURNAME)
-[![Github Badge](https://img.shields.io/badge/-YOURNAME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/YOURUSERNAME)
-[![Outlook Badge](https://img.shields.io/badge/-YOUREMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:YOUREMAIL)
+[![Linkedin Badge](https://img.shields.io/badge/-AUTHOR_NAME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AUTHORNAME)
+[![Github Badge](https://img.shields.io/badge/-AUTHORNAME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/AUTHORUSERNAME)
+[![Outlook Badge](https://img.shields.io/badge/-AUTHOREMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:AUTHOREMAIL)
 
 </div>
 
@@ -231,7 +297,7 @@ Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
 
 <div align="center">
 
-Copyright © 2021 [YOUR NAME](https://github.com/YOURUSERNAME).<br />
+Copyright © 2021 [NAME](https://github.com/USERNAME).<br />
 This project is licensed by [MIT](./LICENSE).
 
 </div>
