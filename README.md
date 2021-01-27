@@ -170,6 +170,41 @@ Open the command prompt in the project directory, open the [`example/`](example/
 
 </details>
 
+<details>
+<summary>:dizzy: <b>API Routes</b></summary>
+
+<details>
+<summary>[POST] <b>Create OBJECT</b></summary>
+/api/create/OBJECT
+</details>
+
+<details>
+<summary>[PUT] <b>Update OBJECT</b></summary>
+/api/update/OBJECT/:id
+</details>
+
+<details>
+<summary>[GET] <b>Get OBJECT</b></summary>
+/api/view/OBJECT/:id
+</details>
+  
+<details>
+<summary>[GET] <b>Get All OBJECTS</b></summary>
+/api/view/OBJECTS
+</details>
+
+<details>
+<summary>[DEL] <b>Delete User</b></summary>
+/api/delete/OBJECT/:id
+</details>
+
+<details>
+<summary>[DEL] <b>Delete All OBJECTS</b></summary>
+/api/delete/OBJECTS
+</details>
+
+</details>
+
 > ⚠️ The development server will start on port:PORT - Access <http://localhost:PORT>
 
 ---
