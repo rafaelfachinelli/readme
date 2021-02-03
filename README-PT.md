@@ -106,6 +106,72 @@ Abra o prompt de comando no diretório do projeto, abra a pasta [`exemplo/`](exe
 
 > ⚠️ O servidor de desenvolvimento será iniciado na porta:PORTA - Acesse <http://localhost:PORTA>
 
+### :iphone: **Mobile**
+
+Abra o prompt de comando no diretório do projeto, abra a pasta [`exemplo/`](exemplo/) e execute os seguintes códigos:
+
+<details>
+  <summary><i>com <b>npm</b></i></summary>
+  
+  ```bash
+  # Instalar dependências
+  $ npm install
+
+  # Iniciar o servidor de desenvolvimento
+  $ npm start
+  ```
+  
+</details>
+
+<details>
+  <summary><i>com <b>yarn</b></i></summary>
+  
+  ```bash
+  # Instalar dependências
+  $ yarn
+
+  # Iniciar o servidor de desenvolvimento
+  $ yarn start
+
+  ```
+
+</details>
+
+> ⚠️ O servidor de desenvolvimento será iniciado na porta:PORTA - Acesse <http://localhost:PORTA>
+
+### :file_cabinet: **Servidor**
+
+Abra o prompt de comando no diretório do projeto, abra a pasta [`exemplo/`](exemplo/) e execute os seguintes códigos:
+
+<details>
+  <summary><i>com <b>npm</b></i></summary>
+  
+  ```bash
+  # Instalar dependências
+  $ npm install
+
+  # Iniciar o servidor de desenvolvimento
+  $ npm start
+  ```
+  
+</details>
+
+<details>
+  <summary><i>com <b>yarn</b></i></summary>
+  
+  ```bash
+  # Instalar dependências
+  $ yarn
+
+  # Iniciar o servidor de desenvolvimento
+  $ yarn start
+
+  ```
+
+</details>
+
+> ⚠️ O servidor de desenvolvimento será iniciado na porta:PORTA - Acesse <http://localhost:PORTA>
+
 ---
 ## :hammer_and_wrench: **Tecnologias**
 
