@@ -71,9 +71,9 @@ Sua descrição sobre o projeto.
 ---
 ## :arrow_forward: **Executar**
 
-Para executar esse projeto você precisa baixar este repositório, ter o Gerenciador de Pacotes do Node ([`NPM`](https://www.npmjs.com/get-npm)) ou o Gerenciador de Pacotes YARN ([`YARN`](https://yarnpkg.com/getting-started)) instalado.
+Para executar esse projeto você precisa clonar ou [`baixar`](https://github.com/USUARIO/REPOSITORIO/archive/main.zip) este repositório, ter o Gerenciador de Pacotes do Node ([`NPM`](https://www.npmjs.com/get-npm)) ou o Gerenciador de Pacotes YARN ([`YARN`](https://yarnpkg.com/getting-started)) instalado.
 
-### :desktop_computer: **WEB Responsivo**
+### :globe_with_meridians: **Web**
 
 Abra o prompt de comando no diretório do projeto, abra a pasta [`exemplo/`](exemplo/) e execute os seguintes códigos:
 
@@ -104,7 +104,7 @@ Abra o prompt de comando no diretório do projeto, abra a pasta [`exemplo/`](exe
 
 </details>
 
-> ⚠️ O servidor de desenvolvimento será iniciado na porta: NÚMERODAPORTA - Acesse <http://localhost:NÚMERODAPORTA>
+> ⚠️ O servidor de desenvolvimento será iniciado na porta:PORTA - Acesse <http://localhost:PORTA>
 
 ---
 ## :hammer_and_wrench: **Tecnologias**
