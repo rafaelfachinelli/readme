@@ -170,6 +170,41 @@ Abra o prompt de comando no diretório do projeto, abra a pasta [`exemplo/`](exe
 
 </details>
 
+<details>
+<summary>:dizzy: <b>Rotas API</b></summary>
+
+<details>
+<summary>[POST] <b>Criar OBJETO</b></summary>
+/api/create/OBJETO
+</details>
+
+<details>
+<summary>[PUT] <b>Atualizar OBJETO</b></summary>
+/api/update/OBJETO/:id
+</details>
+
+<details>
+<summary>[GET] <b>Consultar OBJETO</b></summary>
+/api/view/OBJETO/:id
+</details>
+  
+<details>
+<summary>[GET] <b>Consultar todos OBJETOS</b></summary>
+/api/view/OBJETOS
+</details>
+
+<details>
+<summary>[DEL] <b>Deletar OBJETO</b></summary>
+/api/delete/OBJETO/:id
+</details>
+
+<details>
+<summary>[DEL] <b>Deltar todos OBJETOS</b></summary>
+/api/delete/OBJETOS
+</details>
+
+</details>
+
 > ⚠️ O servidor de desenvolvimento será iniciado na porta:PORTA - Acesse <http://localhost:PORTA>
 
 ---
