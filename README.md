@@ -194,7 +194,7 @@ Open the command prompt in the project directory, open the [`example/`](example/
 </details>
 
 <details>
-<summary>[DEL] <b>Delete User</b></summary>
+<summary>[DEL] <b>Delete OBJECT</b></summary>
 /api/delete/OBJECT/:id
 </details>
 
